@@ -1,5 +1,10 @@
 # Debate Me, AI
 
+The project has been hosted at : https://debate-me-seven.vercel.app/
+
+Github repo link : https://github.com/theunknownadorable/DebateME/tree/master
+Further updations to be done on other branches...
+
 An interactive web application that lets users engage in dynamic, personality-driven debates with an AI opponent powered by Google Gemini.  
 Sharpen your critical thinking, practice argumentation skills, and enjoy lively discussions anytime, anywhere.
 
@@ -72,3 +77,4 @@ Sharpen your critical thinking, practice argumentation skills, and enjoy lively 
 2. Check your .env.local file if you get authentication errors.
 
 3. Make sure you have an active internet connection and valid API key.
+
